@@ -1,0 +1,100 @@
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\csc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\vbc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.pdb
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.pdb
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\csc.exe
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Collections.Immutable.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\vbc.exe
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe.config
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll.config
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.pdb
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.csprojResolveAssemblyReference.cache
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.dll
+C:\Gautamb\Labs\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.pdb
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\csc.exe
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Collections.Immutable.dll
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Reflection.Metadata.dll
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\vbc.exe
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe.config
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll.config
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.pdb
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.csprojResolveAssemblyReference.cache
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.dll
+C:\sanjogpreet singh\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.pdb
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\csc.exe
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Collections.Immutable.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\vbc.exe
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe.config
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll.config
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.pdb
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.csprojResolveAssemblyReference.cache
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.pdb
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\csc.exe
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Collections.Immutable.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\vbc.exe
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\roslyn\VBCSCompiler.exe.config
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll.config
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\XEx04Quotation.pdb
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.csprojResolveAssemblyReference.cache
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.dll
+C:\Arshdeep\Arshdeep_C0712519\assignment 1_C0712519\XEx04Quotation\XEx04Quotation\obj\Debug\XEx04Quotation.pdb
